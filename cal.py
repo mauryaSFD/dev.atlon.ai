@@ -13,3 +13,8 @@ print("Logarithm base e of 100:", math.log(100))
 print("Sine of 30 degrees:", math.sin(math.radians(30)))
 print("Cosine of 45 degrees:", math.cos(math.radians(45)))
 print("Tangent of 60 degrees:", math.tan(math.radians(60)))
+
+# Hyperbolic functions
+print("Hyperbolic sine of 0:", math.sinh(0))
+print("Hyperbolic cosine of 0:", math.cosh(0))
+print("Hyperbolic tangent of 1:", math.tanh(1))
