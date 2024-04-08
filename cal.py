@@ -18,3 +18,6 @@ print("Tangent of 60 degrees:", math.tan(math.radians(60)))
 print("Hyperbolic sine of 0:", math.sinh(0))
 print("Hyperbolic cosine of 0:", math.cosh(0))
 print("Hyperbolic tangent of 1:", math.tanh(1))
+
+# changes done with out branching
+print("changes done with out branching ")
